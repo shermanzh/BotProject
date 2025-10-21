@@ -19,3 +19,11 @@ Python
 Selenium
 
 Undetected Chrome Driver
+
+
+## Installation (WIP)
+1. Clone repository
+2. Import priceGrabber.py into a Python compatible IDE
+3. Install Undetected Chrome Driver and Selenium
+4. Insert Amazon wishlist link into source code
+5. Run code
