@@ -1,0 +1,13 @@
+Provided Example:
+https://www.amazon.com/hz/wishlist/ls/2IQ7SMGX6C9PZ?ref_=list_d_wl_lfu_nav_2
+
+Expected output:
+Items detected: 4
+Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID; Midnight
+Price: $899.
+Apple Watch Series 11 [GPS 42mm] Smartwatch with Jet Black Aluminum Case with Black Sport Band - S/M. Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant
+Price: $389.
+Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, Transparency Mode, Personalized Spatial Audio, USB-C Charging Case, Wireless Charging, H2 Chip
+Price: $118.
+Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Feature, Bluetooth Headphones, Spatial Audio, High-Fidelity Sound, USB-C Charging
+Price: $249.
